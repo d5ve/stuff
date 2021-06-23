@@ -3,7 +3,7 @@ Stuff that was hard for me to find on the web
 
 
 <details>
-  <summary><strong>Pair / Sync Kärcher / Karcher K5 Full Control Pressure Washer trigger gun with the machine.</strong></summary>
+  <summary><strong>Pair / Sync Karcher (Kärcher) K5 Full Control Pressure Washer trigger gun with the machine.</strong></summary>
   
 If your Karcher K5 waterblaster trigger gun isn't synched with the main unit, then the display won't work and you won't be able to change pressure or use the detergent dispenser.
 
